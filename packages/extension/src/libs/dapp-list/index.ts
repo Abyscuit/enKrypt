@@ -8,9 +8,9 @@ const lists: Partial<Record<NetworkNames, string>> = {
   [NetworkNames.Matic]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/matic.json',
   [NetworkNames.EthereumClassic]:
-    'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/etc.json',
+    'https://raw.githubusercontent.com/abyscuit/enkrypt-dynamic-data/main/dapps/etc.json',
   [NetworkNames.Kusama]:
-    'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/ksm.json',
+    'https://raw.githubusercontent.com/abyscuit/enkrypt-dynamic-data/main/dapps/ksm.json',
   [NetworkNames.Polkadot]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/dot.json',
   [NetworkNames.Acala]:
@@ -40,13 +40,13 @@ const lists: Partial<Record<NetworkNames, string>> = {
   [NetworkNames.BifrostKusama]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/bifrost.json',
   [NetworkNames.Edgeware]:
-    'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/edg.json',
-  [NetworkNames.ZkSyncGoerli]:
+    'https://raw.githubusercontent.com/abyscuit/enkrypt-dynamic-data/main/dapps/edg.json',
+  [NetworkNames.zkSyncSepolia]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/zksyncgoerli.json',
   [NetworkNames.ZkSync]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/zksync.json',
   [NetworkNames.Rootstock]:
-    'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/rootstock.json',
+    'https://raw.githubusercontent.com/abyscuit/enkrypt-dynamic-data/main/dapps/rootstock.json',
   [NetworkNames.TomoChain]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/tomo.json',
   [NetworkNames.Arbitrum]:
@@ -58,7 +58,7 @@ const lists: Partial<Record<NetworkNames, string>> = {
   [NetworkNames.Aurora]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/aurora.json',
   [NetworkNames.Base]:
-    'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/base.json',
+    'https://raw.githubusercontent.com/abyscuit/enkrypt-dynamic-data/main/dapps/base.json',
   [NetworkNames.Celo]:
     'https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/dapps/celo.json',
   [NetworkNames.MaticZK]:
